@@ -1,0 +1,16 @@
+Team: Sample XI
+Batsman Stats
+
+Name        | Matches | Runs | Average | Strike Rate
+------------|---------|------|---------|-------------
+Batsman A   | 28      | 1120 | 42.3    | 88.5
+Batsman B   | 22      | 860  | 39.1    | 91.2
+Batsman C   | 30      | 1340 | 47.8    | 93.0
+Team: Sample XI
+Bowler Stats
+
+Name        | Matches | Overs | Wickets | Economy
+------------|---------|-------|---------|---------
+Bowler A    | 25      | 210   | 45      | 4.2
+Bowler B    | 18      | 160   | 30      | 4.8
+Bowler C    | 30      | 275   | 60      | 3.9

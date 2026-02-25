@@ -1,0 +1,7 @@
+Bowler Stats
+
+Name        | Matches | Overs | Wickets | Economy
+------------|---------|-------|---------|---------
+Bowler A    | 25      | 210   | 45      | 4.2
+Bowler B    | 18      | 160   | 30      | 4.8
+Bowler C    | 30      | 275   | 60      | 3.9

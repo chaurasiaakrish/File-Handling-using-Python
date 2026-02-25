@@ -1,0 +1,7 @@
+Batsman Stats
+
+Name        | Matches | Runs | Average | Strike Rate
+------------|---------|------|---------|-------------
+Batsman A   | 28      | 1120 | 42.3    | 88.5
+Batsman B   | 22      | 860  | 39.1    | 91.2
+Batsman C   | 30      | 1340 | 47.8    | 93.0
